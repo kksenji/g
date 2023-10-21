@@ -17,3 +17,7 @@
     #f *= i
 
 #print(f)
+
+#lst = ['a', 'c', 'b', 'j', 'u',]
+#lst.sort()
+#print(lst)
